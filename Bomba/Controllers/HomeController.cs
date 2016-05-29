@@ -15,7 +15,7 @@ namespace Bomba.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "First change";
 
             return View();
         }
